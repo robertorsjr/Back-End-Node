@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "yarn start"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "yarn": "^1.22.10"
+  }
+}
